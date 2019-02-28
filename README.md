@@ -1,2 +1,3 @@
 # HAB-Ejercicios-Repaso
-Ejercicios de repaso de JS
+
+Ejercicios para fijar conceptos y practicar sintaxis de JS
